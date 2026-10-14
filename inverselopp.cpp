@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	
+	int index = 10;
+	do {
+		
+		cout << index << endl;
+		index ++;
+		} while(index <=20);
+
+	
+	
+	return 0;
+}
