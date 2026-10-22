@@ -16,8 +16,18 @@ int main()
     //agregar valores tambien
 
     Arraynums[4] = 100; 
-    cout << "hola " << Arraynums[5]; //cada elemento ya sea un string, un arreglo, una variable bajo "cout" debe llevar el <<
+    cout << "hola " << Arraynums[5] << endl; //cada elemento ya sea un string, un arreglo, una variable bajo "cout" debe llevar el <<
 //al buscar un elemento en el arreglo que no existe bota 0
+
+	int n1, n2, n3;
+	n1 = 18;             
+	n1 /= n2 + n3 ;
+	
+	n2 = 3;
+	n3 = n2;
+	n1 =
+	cout << n1 << endl;
+	cout << 
 
     return 0;
 }
